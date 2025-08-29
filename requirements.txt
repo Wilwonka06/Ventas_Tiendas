@@ -1,6 +1,5 @@
 fastapi
 pandas
-matplotlib
 uvicorn[standard]
 scikit-learn
 joblib
